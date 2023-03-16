@@ -5,7 +5,7 @@ THE CICD pipe line start with github.The content will be triggered based on poll
 Once the image is pushed to docker hub,jenkins will trigger the deployment pipeline and pulls the image from docker hub and runs it as a container in AWS EC2 instance.
 The php content is set to be available at ec2 publicip:44500/
 
-
+Terraform file parametrized so that you can select the required action 1)apply 2) destroy
 
 developer <====>github<=====>jenkins======>dockerhub
 jenkins======terraform========dockerhub======>ec2-instance:ip:44500/
