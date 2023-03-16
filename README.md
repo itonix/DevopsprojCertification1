@@ -29,3 +29,9 @@ Terraform file parametrized so that you can select the required action 1)apply 2
 developer <====>github<=====>jenkins======>dockerhub
 jenkins======terraform========dockerhub======>ec2-instance:ip:44500/
 ******************************************************************************************
+
+
+![project](https://user-images.githubusercontent.com/59088641/225545695-25018771-0e31-4d95-a65b-0b768ac37d99.png)
+
+
+
