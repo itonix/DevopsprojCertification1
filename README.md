@@ -1,4 +1,4 @@
-Website is a php- html script for a simple webpage!
+Website is a simple php- html script for a simple webpage!
 
 This project uses the webcontent in php  and will be launched using apache2 with php packages installed and it will be containerised using docker as a docker image and will be pushed to docker hub.
 Tools Used:
